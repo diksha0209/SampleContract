@@ -51,13 +51,13 @@ STT0KRZHP19N3PY90Z0N85282KE3VZ3RRPKCFJ0C.TelemedicinePaymentHub
 <img width="1356" height="671" alt="image" src="https://github.com/user-attachments/assets/cb874b7e-6a98-4949-940c-945df872742d" />
 
 **Network**: Stacks Mainnet/Testnet
-**Contract Address**: [To be added after deployment]
+**Contract Address**: STT0KRZHP19N3PY90Z0N85282KE3VZ3RRPKCFJ0C.TelemedicinePaymentHub
 **Contract Name**: telemedicine-payment-hub
 **Version**: 1.0.0
 
-**Deployer Address**: [To be added]
-**Deployment Transaction**: [To be added]
-**Block Height**: [To be added]
+**Deployer Address**: STT0KRZHP19N3PY90Z0N85282KE3VZ3RRPKCFJ0C
+**Deployment Transaction**: 0x445c7d65e26cc4f252ee631960d01ad3137db75fd3d0b9c4e9294acc34cb913f
+**Block Height**: 10:32:22 AM 8/26/2025
 
 ---
 
