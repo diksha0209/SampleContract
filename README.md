@@ -86,4 +86,3 @@ STT0KRZHP19N3PY90Z0N85282KE3VZ3RRPKCFJ0C.TelemedicinePaymentHub
 
 ---
 
-*This project is built on the Stacks blockchain using the Clarity smart contract language, ensuring security, transparency, and decentralization in telehealth payment processing.*
